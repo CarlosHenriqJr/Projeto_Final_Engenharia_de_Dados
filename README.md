@@ -23,3 +23,4 @@ O projeto é dividido em duas partes (básico e avançado) sobre o tema Campanha
 ✅Criar a visualização pelo Spark com os dados enviados para o HDFS
  X Salvar a visualização do exercício 6 em um tópico no Elastic (Não consegui finalizar)
  X Criar um dashboard no Elastic para visualização dos novos dados enviados (Não consegui finalizar)
+	
