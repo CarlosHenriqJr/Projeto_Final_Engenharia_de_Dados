@@ -1,7 +1,7 @@
 # Projeto Final Engenharia de Dados
 
 
-Nome: Carlos Henrique de Assis
+Nome: Carlos Henrique de Assis Junior
 Instituição: Semantix Academy
 Turma: Big Data Engineer 08-2022
 Professor: Rodrigo Rebouças
